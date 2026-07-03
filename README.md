@@ -1,4 +1,4 @@
-<img width="991" height="608" alt="image" src="https://github.com/user-attachments/assets/ba9496d8-a5b7-48da-997b-f2e1ea571b54" />**Dataset:** Brain MRI Images for Brain Tumor Detection
+**Dataset:** Brain MRI Images for Brain Tumor Detection
 **Source:** Kaggle
 **Link:** https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
 
