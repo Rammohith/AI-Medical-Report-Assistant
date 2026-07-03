@@ -2,6 +2,10 @@
 **Source:** Kaggle
 **Link:** https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
 
+
+
+
+
 **Total Images:** 7200
 **No of classes:** 4
 **Training folder (before split):** 5600 images
@@ -9,9 +13,16 @@
 **Validation split (15%):** 840 images
 **Test folder:** 1600 images
 
-**Model Architecture:** ResNet50
 
+
+
+
+**Model Architecture:** ResNet50
 **LLM Integation:** OpenRouter
+
+
+
+
 
 **Label Distribution:** 
         Class  Number of Images
@@ -19,6 +30,14 @@
     meningioma              1400
        notumor              1400
      pituitary              1400
+<img width="991" height="608" alt="image" src="https://github.com/user-attachments/assets/ba9496d8-a5b7-48da-997b-f2e1ea571b54" />
+
+
+
+
+
+
+
 
 **Images:** 
 <img width="347" height="431" alt="image" src="https://github.com/user-attachments/assets/319e5bd9-717d-4862-85e0-ffbe73a3c1eb" />
@@ -34,8 +53,14 @@
 <img width="717" height="530" alt="image" src="https://github.com/user-attachments/assets/e189cfa3-4f94-4454-9b3c-3bd9f9a21bf0" />
 
 
+
+
+
+
 **Training and validation loss graphs:** 
 <img width="702" height="531" alt="image" src="https://github.com/user-attachments/assets/a35c4ce6-a249-4d00-a038-d2b96fa113ed" />
+
+
 
 
   
@@ -51,6 +76,10 @@
     accuracy                           0.88      1600
    macro avg       0.89      0.88      0.87      1600
 weighted avg       0.89      0.88      0.87      1600
+
+
+
+
 
 
 **Confusion Matrix:**
