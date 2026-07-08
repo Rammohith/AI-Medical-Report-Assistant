@@ -64,3 +64,8 @@
     accuracy                           0.88      1600
    macro avg       0.89      0.88      0.87      1600
 weighted avg       0.89      0.88      0.87      1600
+
+
+
+** Confusion matrix: **
+<img width="723" height="566" alt="image" src="https://github.com/user-attachments/assets/4a12f482-3f97-432a-abd4-6b3e1cbd7b3a" />
