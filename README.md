@@ -64,8 +64,23 @@
     accuracy                           0.88      1600
    macro avg       0.89      0.88      0.87      1600
 weighted avg       0.89      0.88      0.87      1600
+```
+
+---
+
+## ROC Curve
+
+The Receiver Operating Characteristic (ROC) curve illustrates the model's ability to distinguish between the four tumor classes across different classification thresholds. A curve closer to the top-left corner indicates better classification performance.
+
+<img width="128" height="82" alt="image" src="https://github.com/user-attachments/assets/818cb30e-ea62-4fb8-b04f-d32e0a4aa5c1" />
+
+---
 
 
+## Confusion Matrix
 
-** Confusion matrix: **
-<img width="723" height="566" alt="image" src="https://github.com/user-attachments/assets/4a12f482-3f97-432a-abd4-6b3e1cbd7b3a" />
+The confusion matrix provides a detailed view of the model's predictions by comparing the predicted labels with the true labels for each tumor category.
+
+<img width="723" height="566" alt="image" src="https://github.com/user-attachments/assets/c090d085-efbb-43b2-a24c-52bbe784001a" />
+
+---
