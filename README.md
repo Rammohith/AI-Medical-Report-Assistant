@@ -72,7 +72,8 @@ weighted avg       0.89      0.88      0.87      1600
 
 The Receiver Operating Characteristic (ROC) curve illustrates the model's ability to distinguish between the four tumor classes across different classification thresholds. A curve closer to the top-left corner indicates better classification performance.
 
-<img width="128" height="82" alt="image" src="https://github.com/user-attachments/assets/818cb30e-ea62-4fb8-b04f-d32e0a4aa5c1" />
+<img width="682" height="536" alt="image" src="https://github.com/user-attachments/assets/e137f6e2-7857-4a07-8110-73f16fd3af0f" />
+
 
 ---
 
